@@ -1,2 +1,2 @@
 # Parts
-parts i used and have experience with
+logging parts i have tried and my experiences with them.
